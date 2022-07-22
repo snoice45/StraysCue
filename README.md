@@ -31,8 +31,8 @@ details about a particular case. Since there is true lack of automation
 in this process, the NGOs can greatly benefit from this tool.
 
 ## Tools and Technologies used:
-The UI-UX was developed using Figma.
-The frontend is made with React and backend with Django. 
+The UI-UX was developed using Figma.<br/>
+The frontend is made with React and backend with Django. <br/>
 Axios was used to integrate frontend with backend.
 
 ## Demo:
