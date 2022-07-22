@@ -23,6 +23,7 @@ increased trust with donors and funders through transparency are
 the objectives this project would serve. It is a web development
 project where we had to build a platform that displays meta-data
 and metrics about the NGO’s and the ongoing cases in their facility.
+I was a part of the backend team.
 
 ## Need :
 The NGOs are burdened because of the continuous flooding of cases, and
@@ -33,6 +34,9 @@ in this process, the NGOs can greatly benefit from this tool.
 ## Tools and Technologies used:
 The UI-UX was developed using Figma.<br/>
 The frontend is made with React and backend with Django. <br/>
-Axios was used to integrate frontend with backend.
+Axios was used to integrate frontend with backend. 
+
+
+
 
 ## Demo:
